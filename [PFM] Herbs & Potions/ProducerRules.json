@@ -6,8 +6,18 @@
 		"InputStack" : "3",
 		"MinutesUntilReady" : "60",
 		"FuelIdentifier" : "Wood",
-		"FuelStack" : 5,
+		"FuelStack" : 10,
+		"AdditionalFuel" : {
+			"Wood" : 5
+		},
 		"OutputIdentifier" : "Potion",
-		"Sounds" : ["Ship"]
+		"Sounds" : ["bubbles"],
+		"DelayedSounds" : [ 
+			{ "bubbles" : 20 }
+		],
+		"PlacingAnimation" : "Bubbles",
+		"PlacingAnimationColorName" : "White",
+		"PlacingAnimationOffsetX" : 0,
+		"PlacingAnimationOffsetY" : -16
 	}
 ]

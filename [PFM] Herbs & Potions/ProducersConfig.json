@@ -1,8 +1,16 @@
 ﻿[
 	// Cauldron
 	{
-		"ProducerName": "Cauldron", // Only 1 frame
+		"ProducerName": "Cauldron",
 		"AlternateFrameProducing": false, 
-		"AlternateFrameWhenReady": false
+		"AlternateFrameWhenReady": false,
+		"DisableBouncingAnimationWhileWorking": true,
+		"ProducingAnimation": { 
+			"RelativeFrameIndex": [1,2,3,4,5,6], 
+			"FrameInterval": 60 
+		},
+		"ReadyAnimation": {
+			"RelativeFrameIndex": [7],
+		}
 	}
 ]
