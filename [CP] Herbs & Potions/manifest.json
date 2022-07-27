@@ -1,0 +1,21 @@
+{
+  "Name": "[CP] Herbs & Potions",
+  "Author": "Nicholas Tollner",
+  "Version": "1.0.0",
+  "Description": "Modifies existing context tags of vanilla items for use with Herbs & Potions",
+  "UniqueID": "NicholasTollner.HerbsPotionsCP",
+  "MinimumApiVersion" : "3.0.0",
+  "Dependencies" : [
+  {
+      "UniqueID" : "NicholasTollner.HerbsPotionsJA",
+      "IsRequired" : true
+  },
+  {
+      "UniqueID" : "NicholasTollner.HerbsPotionsPFM",
+      "IsRequired" : true
+  }
+  ],
+  "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}

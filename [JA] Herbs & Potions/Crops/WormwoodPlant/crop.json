@@ -1,0 +1,25 @@
+{
+  "Name": "Wormwood Plant",
+  "Product": "Wormwood",
+  "SeedName": "Wormwood Seeds",
+  "SeedDescription": "Plant in the spring or summer to grow Wormwood. Takes 4 days to grow, then continues to produce every 2 days.",
+  "Type": "Vegetable",
+  "SeedSellPrice": 25,
+  "CropType": "Normal",
+  "Seasons": [ "spring", "summer" ],
+  "Phases": [ 1, 1, 0, 0, 2 ],
+  "RegrowthPhase": 2,
+  "HarvestWithScythe": true,
+  "TrellisCrop": false,
+  "Colors": null,
+  "Bonus": {
+      "MinimumPerHarvest": 1,
+      "MaximumPerHarvest": 1,
+      "MaxIncreasePerFarmLevel": 10,
+      "ExtraChance": 0
+  },
+  "CanPurchase": true,
+  "SeedPurchaseFrom": "Pierre",
+  "SeedPurchasePrice": 50,
+  "SeedPurchaseRequirements": null
+}

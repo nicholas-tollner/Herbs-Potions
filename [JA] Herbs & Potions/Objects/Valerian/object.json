@@ -1,0 +1,23 @@
+{
+  "Name": "Valerian",
+  "Price": 20,
+  "Description": "Key ingredient in various herbal tinctures.",
+  "Category": "Vegetable",
+  "CategoryTextOverride": "Herb",
+  "CategoryColorOverride": "108, 145, 117, 255",
+  "Edibility": -300,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+      "Love": [],
+      "Like": [],
+      "Neutral": [],
+      "Dislike": [],
+      "Hate": []
+  },
+
+  "ContextTags" :
+  [
+    "herb"
+  ]
+}

@@ -1,0 +1,8 @@
+﻿[
+	// Cauldron
+	{
+		"ProducerName": "Cauldron", // Only 1 frame
+		"AlternateFrameProducing": false, 
+		"AlternateFrameWhenReady": false
+	}
+]

@@ -1,0 +1,18 @@
+{
+  "Name": "[JA] Herbs & Potions",
+  "Author": "Nicholas Tollner",
+  "Version": "1.0.0",
+  "Description": "Adds herbs and potions to Stardew Valley, requires PFM and JA to work.",
+  "UniqueID": "NicholasTollner.HerbsPotionsJA",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+      "UniqueID": "spacechase0.JsonAssets"
+  },
+  "Dependencies": [
+    {
+      "UniqueID": "DIGUS.ProducerFrameworkMod",
+      "IsRequired" : true
+    }
+  ]
+}

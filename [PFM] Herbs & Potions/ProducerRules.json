@@ -1,0 +1,13 @@
+﻿[
+	// Cauldron
+	{
+		"ProducerName" : "Cauldron",
+		"InputIdentifier" : "herb",
+		"InputStack" : "3",
+		"MinutesUntilReady" : "60",
+		"FuelIdentifier" : "Wood",
+		"FuelStack" : 5,
+		"OutputIdentifier" : "Potion",
+		"Sounds" : ["Ship"]
+	}
+]

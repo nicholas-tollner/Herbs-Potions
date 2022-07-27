@@ -1,0 +1,17 @@
+{
+	"Name": "[PFM] Herbs & Potions",
+	"Author": "Nicholas Tollner",
+	"Version": "1.0.0",
+	"Description": "Adds producing rules for Herbs & Potions",
+	"UniqueID": "NicholasTollner.HerbsPotionsPFM",
+	"MinimumApiVersion": "3.0.0",
+	"UpdateKeys": [],
+	"Dependencies": [
+		{
+			"UniqueID": "NicholasTollner.HerbsPotionsJA"
+		}
+	],
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.ProducerFrameworkMod"
+	}
+}
